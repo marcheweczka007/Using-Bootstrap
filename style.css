@@ -3,3 +3,17 @@
     margin: 0;
     padding: 0;
 }
+header {
+    background-color: red;
+}
+.header-middle {
+    justify-content: center;
+    text-align:center;
+    font-size: 90px;
+    color: white;
+}
+.img {
+    background-color: aquamarine;
+    height: 200px;
+    width: 100%;
+}
